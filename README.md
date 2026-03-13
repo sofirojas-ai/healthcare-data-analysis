@@ -16,3 +16,5 @@ Beginner data science project exploring healthcare datasets using Python. This r
 - Apply machine learning models to predict health trends
 ## Example Analysis
 This project includes a Python script (`analysis.py`) that loads the heart disease dataset, displays summary statistics, and visualizes the age distribution of patients using Matplotlib.
+## Dataset
+The dataset used in this project contains patient health information such as age, cholesterol levels, and other medical indicators used to explore patterns related to heart disease.
