@@ -14,3 +14,5 @@ Beginner data science project exploring healthcare datasets using Python. This r
 - Add real healthcare datasets
 - Perform deeper statistical analysis
 - Apply machine learning models to predict health trends
+## Example Analysis
+This project includes a Python script (`analysis.py`) that loads the heart disease dataset, displays summary statistics, and visualizes the age distribution of patients using Matplotlib.
